@@ -31,5 +31,11 @@ document.addEventListener("DOMContentLoaded", function () {
     h6.appendChild(h6Text);
     div.appendChild(h6);
     document.body.appendChild(div);
+    h1.className = 'h1';
+    h2.className = 'h2';
+    h3.className = 'h3';
+    h4.className = 'h4';
+    h5.className = 'h5';
+    h6.className = 'h6';
 
 })
